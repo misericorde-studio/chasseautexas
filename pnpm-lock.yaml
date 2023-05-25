@@ -7,6 +7,7 @@ specifiers:
   '@finsweet/ts-utils': ^0.39.1
   '@finsweet/tsconfig': ^1.3.1
   '@playwright/test': ^1.32.1
+  '@studio-freight/lenis': ^1.0.13
   '@typescript-eslint/eslint-plugin': ^5.57.0
   '@typescript-eslint/parser': ^5.57.0
   cross-env: ^7.0.3
@@ -20,6 +21,7 @@ specifiers:
 
 dependencies:
   '@finsweet/ts-utils': 0.39.1
+  '@studio-freight/lenis': 1.0.13
 
 devDependencies:
   '@changesets/changelog-git': 0.1.14
@@ -592,6 +594,10 @@ packages:
     optionalDependencies:
       fsevents: 2.3.2
     dev: true
+
+  /@studio-freight/lenis/1.0.13:
+    resolution: {integrity: sha512-958JVgeCjaK1+28c9uK51xiVFw1E/fxW+w58SQFWPtPsUjlaH9ruKidmjET6FwqOKB0qpG4Z1euU3Mr/4dZb5A==}
+    dev: false
 
   /@types/is-ci/3.0.0:
     resolution: {integrity: sha512-Q0Op0hdWbYd1iahB+IFNQcWXFq4O0Q5MwQP7uN0souuQ4rPg1vEYcnIOfr1gY+M+6rc8FGoRaBO1mOOvL29sEQ==}
