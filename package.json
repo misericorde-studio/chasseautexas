@@ -1,13 +1,13 @@
 {
-  "name": "@finsweet/developer-starter",
+  "name": "@chasse-au-texas/corp",
   "version": "0.0.0",
-  "description": "Developer starter template for Finsweet projects.",
-  "homepage": "https://github.com/finsweet/developer-starter#readme",
+  "description": "Chasse au Texas",
+  "homepage": "https://github.com/misericorde-studio/chasseautexas#readme",
   "license": "ISC",
   "keywords": [],
   "author": {
-    "name": "Finsweet",
-    "url": "https://finsweet.com/"
+    "name": "Misericorde",
+    "url": "https://misericorde.studio/"
   },
   "repository": {
     "type": "git",
